@@ -1,0 +1,1 @@
+Sistema de Gestión de Eventos Deportivos: Crea una base de datos para gestionar eventos deportivos, participantes e inscripciones. Tablas: `Eventos` (evento_id, nombre, fecha, ubicacion, descripcion), `Participantes` (participante_id, nombre, apellido, email, telefono). 
